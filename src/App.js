@@ -38,8 +38,6 @@ function App() {
             <Cursus />
           </div>
         </div>
-        {/* react, material ui, react-html2pdf */}
-        {/* Installation, Nettoyage & paramétrage */}
         {/* Variables CSS */}
         {/* Colonne de gauche * /} 
 
